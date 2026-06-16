@@ -1,25 +1,145 @@
-<h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">🔧 Developer + DSA Enthusiast "Full-stack developer | DSA & CP lover | Building with AI, solving with logic" 💻 Code. Build. Repeat. "5★ HackerRank | Passionate about problem-solving, product design & full-stack dev" 🚀 From Logic to Launch "Turning algorithms into apps | DSA, CP, AI, React + Node.js" 🧠 Code Meets Creativity "Solving problems by day, designing solutions by night" 🛠️ Learning. Building. Growing. "DSA & CP enthusiast | Full-stack developer | AI & Hackathons"</h3>
+<h1 align="center">Hi, I'm Parth Parkhiya 👋</h1>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | DSA Learner | Building practical software projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parkhiyaparth&label=Profile%20views&color=0e75b6&style=flat" alt="parkhiyaparth" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parkhiyaparth" alt="parkhiyaparth" /></a> </p>
-
-- 🌱 I’m currently learning **Agentic AI**
-
-- 💬 Ask me about **NextJS**
-
-- 📫 How to reach me **parkhiyaparth@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parkhiyaparth&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkhiyaparth&show_icons=true&locale=en&layout=compact" alt="parkhiyaparth" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkhiyaparth&show_icons=true&locale=en" alt="parkhiyaparth" /></p>
+I am a Computer Engineering student and developer with a strong interest in Artificial Intelligence, Machine Learning, full-stack development, document intelligence, RAG systems, and practical software engineering.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkhiyaparth&" alt="parkhiyaparth" /></p>
+I enjoy building projects that combine problem-solving with real-world use cases, including AI chatbots, OCR systems, portfolio generators, frontend applications, backend APIs, and data science workflows.
+
+---
+
+## Main Areas of Interest
+
+- Artificial Intelligence and Machine Learning
+- Agentic AI and LLM applications
+- Retrieval-Augmented Generation
+- OCR and document processing
+- Full-stack web development
+- Data Structures and Algorithms
+- Backend API development
+- Data analysis and model building
+
+---
+
+## Highlighted Projects
+
+### AI / ML / Data Projects
+
+- **Smart Investment Portfolio Generator** - educational ML project for portfolio-style analysis using Python, FastAPI, data processing, and ML models.
+- **Agentic AI Chatbot** - end-to-end chatbot project focused on agentic AI concepts and LLM workflow.
+- **OCR** - document processing project with OCR-related setup and usage documentation.
+- **FAISS** - vector search and embedding similarity learning repository.
+- **FAISS Visualization** - FAISS benchmarking and visualization project.
+- **ML Projects** - end-to-end machine learning practice repository.
+- **ANN** - artificial neural network and deep learning practice repository.
+
+### Web / Full-Stack Projects
+
+- **Netflix-GPT** - React application using Firebase, Redux, routing, and AI-style movie search experience.
+- **React Swiggy Clone** - frontend clone project for React UI practice.
+- **SIH 2024 / MedMitra** - full-stack hackathon project with React, Vite, Tailwind CSS, Node.js, Express, MongoDB, and Google Generative AI.
+- **Odoo Hackathon / StackIt** - full-stack Q&A forum platform using Next.js and FastAPI.
+- **Chatbot Redis / ChatCore** - full-stack chatbot project with Docker-based development workflow.
+
+### Programming Practice
+
+- **C Programming**
+- **C++ Programming**
+- **Java**
+- **Python Programming**
+- **Striver DSA Sheet**
+
+---
+
+## Tech Stack
+
+### Languages
+
+- Python
+- JavaScript
+- TypeScript
+- Java
+- C
+- C++
+
+### Frontend
+
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+- Vite
+
+### Backend
+
+- Node.js
+- Express.js
+- FastAPI
+- REST API development
+
+### AI / ML / Data
+
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow / Keras concepts
+- PyTorch concepts
+- FAISS
+- OCR concepts
+- LLM and RAG concepts
+
+### Databases and Tools
+
+- MongoDB
+- Redis concepts
+- Git
+- GitHub
+- Docker basics
+- Firebase
+- Postman
+
+---
+
+## Current Learning Focus
+
+- Agentic AI
+- AI/ML engineering
+- LLM-based applications
+- Scalable backend systems
+- Stronger DSA and problem-solving skills
+- Production-ready project documentation
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkhiyaparth&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parkhiyaparth&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parkhiyaparth" alt="GitHub Streak" />
+</p>
+
+---
+
+## Contact
+
+- Email: **parkhiyaparth@gmail.com**
+- GitHub: [ParkhiyaParth](https://github.com/ParkhiyaParth)
+
+---
+
+<p align="center">Code. Learn. Build. Improve.</p>
